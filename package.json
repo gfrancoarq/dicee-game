@@ -1,0 +1,37 @@
+{
+  "name": "dicee-game",
+  "version": "1.0.0",
+  "description": "This is a very simple project created in Javascript, that when you click on the button, it generates a random number for each die, which defines a winner! For example, it can be used to make decisions between friends or family.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gfrancoarq/dicee-game.git"
+  },
+  "keywords": [
+    "dicee-game",
+    "javascript"
+  ],
+  "author": "Gustavo Franco",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gfrancoarq/dicee-game/issues"
+  },
+  "homepage": "https://github.com/gfrancoarq/dicee-game#readme",
+  "dependencies": {
+    "node-modules": "^0.0.1"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.26.0",
+    "hint": "^2.0.0",
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.21.0"
+  }
+}
